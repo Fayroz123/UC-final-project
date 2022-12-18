@@ -5,30 +5,18 @@
 <div dir="rtl">
   
 ### اسم الطالب
-
+فيروز أنس خالد رفاعي
 
 ### اسم المشروع
-
+Tic-Tac-Toe لعبة
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
+لا يوجد
 
 
 # الأعمال المستقبلية
+لا يوجد
 
 
-</div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
 
 
